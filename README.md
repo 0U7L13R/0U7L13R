@@ -1,1 +1,1 @@
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3784003" style='border:none;'></iframe>
+![tryhackme stats](https://raw.githubusercontent.com/<SET_USERNAME_HERE>/<SET_USERNAME_HERE>/master/assets/thm_propic.png)
