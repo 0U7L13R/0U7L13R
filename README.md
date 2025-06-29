@@ -1,1 +1,1 @@
-![tryhackme stats](https://raw.githubusercontent.com/<SET_USERNAME_HERE>/<SET_USERNAME_HERE>/master/assets/thm_propic.png)
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/0U7L13R.png)](https://tryhackme.com/p/0U7L13R)
