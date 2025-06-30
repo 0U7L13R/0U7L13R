@@ -3,7 +3,7 @@
 # Hello World
 
 I'm actively working on cleaning up and uploading proper documentation for my personal projects and notes. Most of what you see here are independent endeavors driven by curiosity.
-The exception is [Link text]([https://website-name.com](https://github.com/0U7L13R/CS4732-Cryptography) 'CS4732'), which is (regrettably) the only class I decided to upload homework for.
+The exception is [CS4732](https://github.com/0U7L13R/CS4732-Cryptography), which is (regrettably) the only class I decided to upload homework for.
 
 - **Cheatsheets & Notes**: My [wiki](https://github.com/yourusername/The_wiki) is where I collect syntax notes, tools, and cybersecurity references.
 - **Personal Projects**: Tools, experiments, and scripts I’ve written for learning, automation, or problem-solving.
@@ -25,6 +25,6 @@ The exception is [Link text]([https://website-name.com](https://github.com/0U7L1
 
 
 
-https://github.com/0U7L13R/CS4732-Cryptography
+
 
 
