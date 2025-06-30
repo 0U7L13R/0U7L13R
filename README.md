@@ -14,8 +14,8 @@ My [wiki](https://github.com/yourusername/The_wiki) is where I keep my collectio
 |--------|-------------|
 | [Pwnagotchi](https://github.com/0U7L13R/Pwnagotchi) | Wifi hacking tool|
 | [CS4354](https://github.com/yourusername/CS4354) | Project coursework for Cryptography |
-| [8-Bit Computer](https://github.com/0U7L13R/8bit-Computer) | |
-| [Home Network/CCNA lab](https://github.com/0U7L13R/HomeNetwork) | |
+| [8-Bit Computer](https://github.com/0U7L13R/8bit-Computer) | Breadboard 8-bit CPU built from scratch with TTL chips |
+| [Home Network/CCNA lab](https://github.com/0U7L13R/HomeNetwork) | Documentation for my home network |
 
 ---
 
