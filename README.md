@@ -15,7 +15,7 @@ The [wiki](https://github.com/0U7L13R/The_Wiki) is where I keep my collection of
 | Project | Description |
 |--------|-------------|
 | [8-Bit Computer](https://github.com/0U7L13R/8bit-Computer) | Breadboard 8-bit CPU built from scratch with TTL chips |
-| [Home Network/CCNA lab](https://github.com/0U7L13R/HomeNetwork) | Documentation for my home network |
+| [Home Network/CCNA lab](https://github.com/0U7L13R/HomeNetwork) | Documentation for my home network and server |
 | [Pwnagotchi](https://github.com/0U7L13R/Pwnagotchi) | Wifi hacking tool|
 
 
