@@ -5,7 +5,7 @@
 I'm actively working on cleaning up and uploading proper documentation for my personal projects and notes. Pictures are provided for projects, just lacking proper documentation, and I am working to upload the notes I have saved on a thumb drive.
 
 Most of what you see here are independent endeavors driven by curiosity.
-The exception is [CS4732](https://github.com/0U7L13R/CS4732-Cryptography), which is (regrettably) the only class I decided to upload homework for, which I am currently enrolled.
+The exception is [CS4732](https://github.com/0U7L13R/CS4732-Cryptography), which is (regrettably) the only class I decided to upload homework.
 
 The [wiki](https://github.com/0U7L13R/The_Wiki) is where I keep my collection of notes for syntax, tools, and other cyber references.
 
