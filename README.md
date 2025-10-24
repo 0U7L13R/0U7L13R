@@ -1,6 +1,6 @@
 # Hello World
 
-I'm currently creating proper documentation my projects and uploading notes from my thumb drive. Pictures are included, but details are still in progress.
+I'm currently creating proper documentation for my projects and uploading notes from my thumb drive. Pictures are included, but details are still in progress.
 
 What you see here are independent endeavors driven by curiosity.
 
