@@ -10,7 +10,7 @@ What you see here are independent endeavors driven by curiosity.
 | Project | Description |
 |--------|-------------|
 | [8-Bit Computer](https://github.com/0U7L13R/8bit-Computer) | 8-bit computer built on a breadboard using transistor logic |
-| [Home Network](https://github.com/0U7L13R/HomeNetwork) | Home network and server |
+| [Home Network](https://github.com/0U7L13R/HomeNetwork) | Corporate style home network & cyber range |
 | [Pwnagotchi](https://github.com/0U7L13R/Pwnagotchi) | Wi-fi hacking tool |
 
 
